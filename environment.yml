@@ -1,0 +1,8 @@
+name: mdml_workshop
+channels:
+  -  conda-forge
+dependencies:
+  - MDAnalysis
+  - MDAnalysisTests
+  - MDAnalysisData
+  - scikit-learn
