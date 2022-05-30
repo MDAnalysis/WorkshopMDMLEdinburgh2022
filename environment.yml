@@ -2,7 +2,7 @@ name: mdml_workshop
 channels:
   -  conda-forge
 dependencies:
-  - MDAnalysis
+  - MDAnalysis>=2.0.0
   - MDAnalysisTests
   - MDAnalysisData
   - scikit-learn
