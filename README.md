@@ -45,3 +45,5 @@ Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop
 materials.
 
 ##
+[1]: https://jupyter-notebook.readthedocs.io/en/stable/
+[2]: https://numpy.org/
