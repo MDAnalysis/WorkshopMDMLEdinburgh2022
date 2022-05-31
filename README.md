@@ -4,7 +4,7 @@
 Irfan Alibay    
 Matteo Degiacomi   
 Richard Gowers   
-Micaele Matta   
+Micaela Matta   
 Antonia Mey   
 
 
