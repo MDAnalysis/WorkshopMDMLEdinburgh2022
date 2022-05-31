@@ -1,6 +1,6 @@
 # Workshop for MDAnalysis/ML Edinburgh 2022
 
-This repository contains all the materials for the 2022 MDAnalysis/ML workshop taking place at  
+This repository contains all the materials for the 2022 MDAnalysis/ML workshop taking place at the University of Edinburgh on June 9-10 2022.
 
 ## Instructors
 Irfan Alibay    
@@ -8,6 +8,29 @@ Matteo Degiacomi
 Richard Gowers   
 Micaela Matta   
 Antonia Mey   
+
+## Location
+
+University of Edinburgh, King’s Buildings Campus, [Murchison House, room G09](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0654_00_G.09) - 10 Max Born Cres, Edinburgh EH9 3BF. 
+
+See also [accessibility information](https://www.accessable.co.uk/the-university-of-edinburgh/king-s-buildings/access-guides/murchison-house#d2279e8b-6141-084a-857c-3d756f3983bb).
+
+
+## Schedule
+
+|  Day 1 	| Schedule| 	| Day 2 	| Schedule|
+|---------------	|-----------------------|---	|---	|---	|
+| 9:00-9:30     	| Registration          	|   	|  09:00-09:30	|  Slow start 	|
+| 9:30-9:40     	| Opening remarks       	|   	| 9:30-9:40    	| Opening remarks  |
+| 09:40-10:45   	| MDAnalysis            	|   	|  09:40-10:45   	| ML + MDAnalysis	|
+| 10:45-11:00   	| Coffee                	|   	|   10:45-11:00  	| Coffee 	|
+| 11:00-12:30   	| MDAnalysis            	|   	|   11:00-12:30 	| ML + MDAnalysis	|
+| 12:30-13:30   	| Lunch                 	|   	|  12:30-13:30 	| Lunch |
+| 13:30-14:45   	| ML                    	|   	|  13:30-14:45 	|  Code Clinic 	|
+| 14:45-15:00   	| Coffee                	|   	|  14:45-15:00  | Coffee |
+| 15:00-16:20   	| ML                    	|   	|  15:00-15:50	|   Code Clinic	|
+| 16:20-16:30   	| Closing remarks       	|   	|  15:50-16:00 | Closing remarks	|
+| 18:00-onwards 	| Informal social event 	|   	|   	|   	|
 
 
 ## Setting up your python environment
