@@ -42,9 +42,6 @@ are provided in [`INSTALL.md`](INSTALL.md).
 A full list of the required Python packages can be seen inside [`environment.yml`](environment.yml).
 
 
-**Note: this workshop uses the beta release of MDAnalysis 2.0.0.** <!-- to check -->
-
-
 ## Course pre-requisites
 
 The course assumes that attendees have a working knowledge of [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
