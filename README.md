@@ -31,8 +31,9 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 | 15:00-16:20   	| ML Regression          	| [![ML Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_regression_02.ipynb)  	|
 | 16:20-16:30   	| Closing remarks       	|   	|
 | 18:00-onwards 	| Informal social event 	|   	|
-|--- |--- |--- |
-| Day 2 |  |  |
+
+
+|  Day 2 	        | Session                 | Materials |
 |--- |--- |--- |
 | 9:00-9:30	|  Slow start 	| |
 | 9:30-9:40    	| Opening remarks  | |
