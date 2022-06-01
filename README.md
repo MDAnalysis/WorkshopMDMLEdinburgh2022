@@ -1,4 +1,4 @@
-# 2022 MDAnalysis/ML Workshop - University of Edinburgh 
+# Workshop for MDAnalysis/ML Edinburgh 2022
 
 This repository contains all the materials for the 2022 MDAnalysis/ML workshop taking place at the University of Edinburgh on June 9-10 2022.
 
@@ -18,15 +18,15 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 
 ## Schedule
 
-|  Day 1 	| Schedule| 	| Day 2 	| Schedule|
-|---------------	|-----------------------|---	|---	|---	|
+|  Day 1 	        | Session                 | Materials | Day 2 	| Session  | Materials |
+|---------------	|-------------------------|-----------|---------|----------|-----------|
 | 9:00-9:30     	| Registration          	|   	|  9:00-9:30	|  Slow start 	|
 | 9:30-9:40     	| Opening remarks       	|   	| 9:30-9:40    	| Opening remarks  |
-| 9:40-10:45   	| MDAnalysis            	|   	|  9:40-10:45   	| ML + MDAnalysis	|
+| 9:40-10:45    	| MDAnalysis            	|   	|  9:40-10:45   	| ML + MDAnalysis	|
 | 10:45-11:00   	| Coffee                	|   	|   10:45-11:00  	| Coffee 	|
 | 11:00-12:30   	| MDAnalysis            	|   	|   11:00-12:30 	| ML + MDAnalysis	|
 | 12:30-13:30   	| Lunch                 	|   	|  12:30-13:30 	| Lunch |
-| 13:30-14:45   	| ML                    	|   	|  13:30-14:50 	|  Code Clinic 	|
+| 13:30-14:45   	| ML Clustering          	| [![ML Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_clustering_01.ipynb)  	|  13:30-14:50 	|  Code Clinic 	|
 | 14:45-15:00   	| Coffee                	|   	|  14:50-15:00  | Closing remarks |
 | 15:00-16:20   	| ML                    	|   	|  ||
 | 16:20-16:30   	| Closing remarks       	|   	|  ||
