@@ -23,44 +23,45 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 | 9:00-9:30     	| Registration          	|   	|
 | 9:30-9:40     	| Opening remarks       	|   	|
 | 9:40-10:45    	| MDAnalysis            	|  [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_01_System_Manipulation.ipynb)  	|
-| 10:45-11:00   	| Coffee                	|   	|
+| 10:45-11:00   	| :coffee: break  :coffee:              	|   	|
 | 11:00-12:30   	| MDAnalysis            	| [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_02_Geometry.ipynb)   	|
 | 12:30-13:30   	| Lunch                 	|   	|
 | 13:30-14:45   	| ML Clustering          	| [![ML Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_clustering_01.ipynb)  	|  
-| 14:45-15:00   	| Coffee                	|   	| 
+| 14:45-15:00   	| :coffee: break   :coffee:             	|   	| 
 | 15:00-16:20   	| ML Regression          	| [![ML Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_regression_02.ipynb)  	|
 | 16:20-16:30   	| Closing remarks       	|   	|
-| 18:00-onwards 	| Informal social event 	|   	|
-|--- |--- |--- |
-| Day 2 |  |  |
+| 18:00-onwards 	| Informal social event 	| [Steel Coulson, EH9 1PU](https://goo.gl/maps/ZNGPp9ZS1ag2ovFV9) 	|
+
+
+|  Day 2 	        | Session                 | Materials |
 |--- |--- |--- |
 | 9:00-9:30	|  Slow start 	| |
 | 9:30-9:40    	| Opening remarks  | |
 | 9:40-10:45   	| ML + MDAnalysis	| |
-| 10:45-11:00  	| Coffee 	| |
+| 10:45-11:00  	| :coffee: break :coffee:	| |
 | 11:00-12:30 	| ML + MDAnalysis	| |
 | 12:30-13:30 	| Lunch | |
 | 13:30-14:50 	|  Code Clinic 	| |
 | 14:50-15:00  | Closing remarks |
 
-## Setting up your python environment
+## Setting up your python environment *before the workshop*
+
+<!--The workshop will be hands-on. You will need a working installation of MDAnalysis and related packages including data to analyze in order to participate. The full installation may take up to about 1 GB of space (mostly for data, which you can delete after the workshop).--> 
 
 Instructions for setting up your environment to run this workshop locally
 are provided in [`INSTALL.md`](INSTALL.md).
 
-
 A full list of the required Python packages can be seen inside [`environment.yml`](environment.yml).
 
+As downloading and installing everything will take a little while, ideally you should follow these steps before the workshop starts. If you encounter any issues during installation, we can help!
+
+## Google Colab
+
+If for any reason you cannot set up a local environment with all required packages, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required. 
 
 ## Course pre-requisites
 
 The course assumes that attendees have a working knowledge of [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
-
-
-<!--## Binder-->
-
-<!--The tutorial materials can be accessed online via Google Colab.-->
-<!--To launch the Colab instance, click here-->
 
 
 ## License
