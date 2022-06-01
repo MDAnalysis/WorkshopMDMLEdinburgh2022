@@ -23,14 +23,14 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 | 9:00-9:30     	| Registration          	|   	|
 | 9:30-9:40     	| Opening remarks       	|   	|
 | 9:40-10:45    	| MDAnalysis            	|  [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_01_System_Manipulation.ipynb)  	|
-| 10:45-11:00   	| Coffee                	|   	|
+| 10:45-11:00   	| :coffee: break  :coffee:              	|   	|
 | 11:00-12:30   	| MDAnalysis            	| [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_02_Geometry.ipynb)   	|
 | 12:30-13:30   	| Lunch                 	|   	|
 | 13:30-14:45   	| ML Clustering          	| [![ML Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_clustering_01.ipynb)  	|  
-| 14:45-15:00   	| Coffee                	|   	| 
+| 14:45-15:00   	| :coffee: break   :coffee:             	|   	| 
 | 15:00-16:20   	| ML Regression          	| [![ML Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_regression_02.ipynb)  	|
 | 16:20-16:30   	| Closing remarks       	|   	|
-| 18:00-onwards 	| Informal social event 	|   	|
+| 18:00-onwards 	| Informal social event 	| [Steel Coulson, EH9 1PU](https://goo.gl/maps/ZNGPp9ZS1ag2ovFV9) 	|
 
 
 |  Day 2 	        | Session                 | Materials |
@@ -38,7 +38,7 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 | 9:00-9:30	|  Slow start 	| |
 | 9:30-9:40    	| Opening remarks  | |
 | 9:40-10:45   	| ML + MDAnalysis	| |
-| 10:45-11:00  	| Coffee 	| |
+| 10:45-11:00  	| :coffee: break :coffee:	| |
 | 11:00-12:30 	| ML + MDAnalysis	| |
 | 12:30-13:30 	| Lunch | |
 | 13:30-14:50 	|  Code Clinic 	| |
