@@ -1,4 +1,4 @@
-# Workshop for MDAnalysis/ML Edinburgh 2022
+# 2022 MDAnalysis/ML Workshop - University of Edinburgh 
 
 This repository contains all the materials for the 2022 MDAnalysis/ML workshop taking place at the University of Edinburgh on June 9-10 2022.
 
