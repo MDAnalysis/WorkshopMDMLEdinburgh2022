@@ -27,6 +27,12 @@ conda env create --file=environments.yml
 See the [conda documentation][4] for more information on how to access and
 manage [conda][3] environments.
 
+To then activate this environment:
+
+```bash
+conda activate mdml_workshop
+```
+
 ### 2. Activating the Jupyter extensions
 
 The workshop leverages the extended utility of several Jupyter nbextensions.
