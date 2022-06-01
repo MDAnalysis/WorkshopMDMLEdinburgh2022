@@ -20,16 +20,16 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 
 |  Day 1 	| Schedule| 	| Day 2 	| Schedule|
 |---------------	|-----------------------|---	|---	|---	|
-| 9:00-9:30     	| Registration          	|   	|  09:00-09:30	|  Slow start 	|
+| 9:00-9:30     	| Registration          	|   	|  9:00-9:30	|  Slow start 	|
 | 9:30-9:40     	| Opening remarks       	|   	| 9:30-9:40    	| Opening remarks  |
-| 09:40-10:45   	| MDAnalysis            	|   	|  09:40-10:45   	| ML + MDAnalysis	|
+| 9:40-10:45   	| MDAnalysis            	|   	|  9:40-10:45   	| ML + MDAnalysis	|
 | 10:45-11:00   	| Coffee                	|   	|   10:45-11:00  	| Coffee 	|
 | 11:00-12:30   	| MDAnalysis            	|   	|   11:00-12:30 	| ML + MDAnalysis	|
 | 12:30-13:30   	| Lunch                 	|   	|  12:30-13:30 	| Lunch |
-| 13:30-14:45   	| ML                    	|   	|  13:30-14:45 	|  Code Clinic 	|
-| 14:45-15:00   	| Coffee                	|   	|  14:45-15:00  | Coffee |
-| 15:00-16:20   	| ML                    	|   	|  15:00-15:50	|   Code Clinic	|
-| 16:20-16:30   	| Closing remarks       	|   	|  15:50-16:00 | Closing remarks	|
+| 13:30-14:45   	| ML                    	|   	|  13:30-14:50 	|  Code Clinic 	|
+| 14:45-15:00   	| Coffee                	|   	|  14:50-15:00  | Closing remarks |
+| 15:00-16:20   	| ML                    	|   	|  ||
+| 16:20-16:30   	| Closing remarks       	|   	|  ||
 | 18:00-onwards 	| Informal social event 	|   	|   	|   	|
 
 
