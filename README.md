@@ -28,7 +28,7 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 | 12:30-13:30   	| Lunch                 	|   	|
 | 13:30-14:45   	| ML Clustering          	| [![ML Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_clustering_01.ipynb)  	|  
 | 14:45-15:00   	| :coffee: break   :coffee:             	|   	| 
-| 15:00-16:20   	| ML Regression          	| [![ML Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_regression_02.ipynb)  	|
+| 15:00-16:20   	| ML Dimensionality Reduction          	| [![ML DR](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_DR_02.ipynb)  	|
 | 16:20-16:30   	| Closing remarks       	|   	|
 | 18:00-onwards 	| Informal social event 	| [Steel Coulson, EH9 1PU](https://goo.gl/maps/ZNGPp9ZS1ag2ovFV9) 	|
 
