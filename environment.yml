@@ -6,6 +6,8 @@ dependencies:
   - MDAnalysisTests
   - MDAnalysisData
   - scikit-learn
+  - jupyter
+  - nglview
   # testing
   - pytest
   - nbval
