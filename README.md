@@ -37,9 +37,9 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 |--- |--- |--- |
 | 9:00-9:30	|  Slow start 	| |
 | 9:30-9:40    	| Opening remarks  | |
-| 9:40-10:45   	| ML + MDAnalysis	| |
+| 9:40-10:45   	| ML Classification	| |
 | 10:45-11:00  	| :coffee: break :coffee:	| |
-| 11:00-12:30 	| ML + MDAnalysis	| |
+| 11:00-12:30 	| ML Regression + Neural Networks	| |
 | 12:30-13:30 	| Lunch | |
 | 13:30-14:50 	|  Code Clinic 	| |
 | 14:50-15:00  | Closing remarks |
