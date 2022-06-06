@@ -8,6 +8,7 @@ dependencies:
   - scikit-learn
   - jupyter
   - nglview
+  - jupyter_contrib_nbextensions
   # testing
   - pytest
   - nbval
