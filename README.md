@@ -71,7 +71,7 @@ The MDAnalysis logo and its derivatives are licensed under the Creative Commons 
 
 ## Sponsor 
 
-![logo](cropped-mgms_logo_clean_2014_square.png)
+![logo](assets/cropped-mgms_logo_clean_2014_square.png)
 
 We are grateful to the [Molecular Graphics and Modelling Society (MGMS)](https://www.mgms.org/WordPress/about/) for sponsoring the workshop.
 The Society was formed in 1981 to bring together scientists working in different fields of study (such as chemistry, physics, biology, mathematics and computer science) who have a common interest in molecular modelling and graphics. The Society’s core activities involve the organising of conferences relevant to its community, as well as developing and encouraging scientists at the start of their careers.
