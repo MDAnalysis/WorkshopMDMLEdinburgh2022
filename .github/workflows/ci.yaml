@@ -41,19 +41,16 @@ jobs:
           environment-file: environment.yml
           activate-environment: openfe-benchmarks
  
-      - name: "install"
-        run: python setup.py develop --no-deps
-
-      - name: "test imports"
-        run: |
-          python -Ic "import mdml_workshop"
- 
       - name: "environment information"
         run: |
           mamba info -a
           mamba list
 
-      - name: "run tests"
+      - name: "run MD notebooks tests"
         run: |
-          pytest -v --nbval-lax mdml_workshop
+          pytest -v --nbval-lax MD
+
+      - name: "run ML notebooks tests"
+        run: |
+          pytest -v --nbval-lax ML
 
