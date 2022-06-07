@@ -37,7 +37,7 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 |--- |--- |--- |
 | 9:00-9:30	|  Slow start 	| |
 | 9:30-9:40    	| Opening remarks  | |
-| 9:40-10:45   	| ML Classification	| |
+| 9:40-10:45   	| ML Classification	| [![ML DR](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_RF_03.ipynb)|
 | 10:45-11:00  	| :coffee: break :coffee:	| |
 | 11:00-12:30 	| ML Regression + Neural Networks	| |
 | 12:30-13:30 	| Lunch | |
