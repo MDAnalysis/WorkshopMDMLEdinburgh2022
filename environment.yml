@@ -9,6 +9,8 @@ dependencies:
   - nglview
   - notebook
   - jupyter_contrib_nbextensions
+  # For prsentations
+  - rise
   # testing
   - pytest
   - nbval
