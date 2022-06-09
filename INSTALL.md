@@ -21,7 +21,7 @@ To create an environment named `mdml_workshop` with all the necessary
 Python dependencies:
 
 ```bash
-conda env create --file=environments.yml
+conda env create --file=environment.yml
 ```
 
 See the [conda documentation][4] for more information on how to access and
