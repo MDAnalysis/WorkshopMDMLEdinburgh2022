@@ -24,7 +24,7 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 | 9:30-9:40     	| Opening remarks       	|   	|
 | 9:40-10:45    	| MDAnalysis            	|  [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_01_System_Manipulation.ipynb)  	|
 | 10:45-11:00   	| :coffee: break  :coffee:              	|   	|
-| 11:00-12:30   	| MDAnalysis            	| [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_02_Geometry.ipynb)   	|
+| 11:00-12:30   	| MDAnalysis            	| [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_02_Distances_Trajectories.ipynb)   	|
 | 12:30-13:30   	| Lunch                 	|   	|
 | 13:30-14:45   	| ML Clustering          	| [![ML Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_clustering_01.ipynb)  	|  
 | 14:45-15:00   	| :coffee: break   :coffee:             	|   	| 
