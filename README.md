@@ -39,7 +39,8 @@ See also [accessibility information](https://www.accessable.co.uk/the-university
 | 9:30-9:40    	| Opening remarks  | |
 | 9:40-10:45   	| ML Classification	| [![ML DR](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_RF_03.ipynb)|
 | 10:45-11:00  	| :coffee: break :coffee:	| |
-| 11:00-12:30 	| ML Regression + Neural Networks	| |
+| 11:00-12:30 	| ML Regression + Neural Networks	| [![ML_NN](https://colab.research.google.com/assets/colab-badge.svg)](
+(https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_NN_04.ipynb)|
 | 12:30-13:30 	| Lunch | |
 | 13:30-14:50 	|  Code Clinic 	| |
 | 14:50-15:00  | Closing remarks |
