@@ -23,18 +23,11 @@ bibliography: paper.bib
 
 # Summary
 
+- “Statement of Need” section
 
-
-# Mathematics
-
-Single dollars ($) are required for inline mathematics e.g. $f(x) = e^{\pi/x}$
-
-Double dollars make self-standing equations:
-
-$$\Theta(x) = \left\{\begin{array}{l}
-0\textrm{ if } x < 0\cr
-1\textrm{ else}
-\end{array}\right.$$
+- “story” of the project
+ 
+- learning objectives, content, instructional design, and experience of use
 
 
 # Citations
