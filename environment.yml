@@ -14,3 +14,4 @@ dependencies:
   # testing
   - pytest
   - nbval
+  - ipywidgets<8
