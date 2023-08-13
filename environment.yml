@@ -2,13 +2,14 @@ name: mdml_workshop
 channels:
   -  conda-forge
 dependencies:
-  - MDAnalysis>=2.0.0
+  - MDAnalysis
   - MDAnalysisTests
   - MDAnalysisData
   - scikit-learn
   - nglview
   - notebook<7
   - jupyter_contrib_nbextensions
+  - importlib-metadata
   # For prsentations
   - rise
   # testing
