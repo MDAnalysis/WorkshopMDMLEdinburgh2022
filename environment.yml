@@ -7,7 +7,7 @@ dependencies:
   - MDAnalysisData
   - scikit-learn
   - nglview
-  - notebook
+  - notebook<7
   - jupyter_contrib_nbextensions
   # For prsentations
   - rise
