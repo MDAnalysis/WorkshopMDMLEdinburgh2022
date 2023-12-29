@@ -27,10 +27,10 @@ jobs:
       fail-fast: False
       matrix:
         os: ['ubuntu', 'macos', 'windows']
-        python-version: ['3.9', '3.10']
+        python-version: ['3.9', '3.10', '3.11', '3.12']
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: conda-incubator/setup-miniconda@v2
         with:
