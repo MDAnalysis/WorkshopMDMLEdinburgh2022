@@ -15,4 +15,4 @@ In order to foster a positive and professional learning environment we encourage
 If someone makes you or any other contributor feel unsafe or unwelcome, please report this in a timely manner. Code of conduct violations reduce the value of the community for everyone and we take them seriously. 
 If you believe someone is violating the Code of Conduct, we ask that you report it to the workshop organisers or fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeID-DiFMbXAHFeeiNgPKiCoa3FwA5I_92xE9cqlZB-3J49zA/viewform?c=0&w=1).
 
-See also the [MDAnalysis Code of Conduct](https://www.mdanalysis.org/pages/conduct/)
+See also the [MDAnalysis Code of Conduct](https://www.mdanalysis.org/conduct/)
